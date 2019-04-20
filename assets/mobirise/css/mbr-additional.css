@@ -1436,7 +1436,7 @@ body {
 }
 .cid-roahmsfB7W .timeline-text-content {
   padding: 2rem 2.5rem;
-  background: #ffffff;
+  background: #efefef;
   margin-left: 2rem;
 }
 .cid-roahmsfB7W .timeline-text-content p {
@@ -1447,7 +1447,7 @@ body {
 }
 .cid-roahmsfB7W .time-line-date-content p {
   padding: 2rem 2.5rem;
-  background: #ffffff;
+  background: #efefef;
   float: right;
 }
 .cid-roahmsfB7W .timeline-element {
@@ -1496,7 +1496,7 @@ body {
   border-radius: 50%;
   font-size: 30px;
   display: inline-block;
-  background-color: #ffffff;
+  background-color: #efefef;
   top: 20px;
   margin-left: -10px;
 }
@@ -1506,7 +1506,7 @@ body {
   position: absolute;
   content: "";
   width: 2px;
-  background-color: #ffffff;
+  background-color: #efefef;
   left: calc(50% - 1px);
   height: calc(100% + 4rem);
 }
